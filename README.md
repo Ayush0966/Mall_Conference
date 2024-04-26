@@ -5,14 +5,11 @@ This repository contains the code and documentation for a thesis project on cust
 ## Dataset
 The dataset used in this project is the Mall Customers dataset available on Kaggle. This dataset contains information about customers including their gender, age, annual income, and spending score.
 
-### Project Structure
-The project is structured as follows:
 
-**data/:** Contains the dataset files.
 
-**CODE/:** Contains Jupyter Notebooks for data exploration, preprocessing, and model evaluation.
+###CODE/: 
 
-**results/:** Contains the results and visualizations generated during the analysis.
+Contains Jupyter Notebooks for data exploration, preprocessing, and model evaluation.
 
 
 ## Clustering Algorithms
@@ -28,4 +25,4 @@ The following clustering algorithms were implemented and evaluated in this proje
 
 
 ## Results
-The results of the clustering analysis, including visualizations and insights gained from the segmentation, can be found in the results/ directory.
+The results of the clustering analysis, including visualizations and insights gained from the segmentation, can be found in the CODE directory.
