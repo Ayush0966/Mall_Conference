@@ -30,3 +30,7 @@ The following clustering algorithms were implemented and evaluated in this proje
 2.Agglomerative Clustering: A hierarchical clustering method that starts with individual data points and iteratively merges clusters.
 3.Hierarchical Clustering: A clustering method that builds a tree of clusters by recursively merging or splitting clusters.
 4.DBSCAN (Density-Based Spatial Clustering of Applications with Noise): A density-based clustering method that groups together points that are closely packed.
+
+
+Results
+The results of the clustering analysis, including visualizations and insights gained from the segmentation, can be found in the results/ directory.
