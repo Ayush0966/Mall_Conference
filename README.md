@@ -9,7 +9,9 @@ The dataset used in this project is the Mall Customers dataset available on Kagg
 The project is structured as follows:
 
 data/: Contains the dataset files.
+
 CODE/: Contains Jupyter Notebooks for data exploration, preprocessing, and model evaluation.
+
 results/: Contains the results and visualizations generated during the analysis.
 
 
@@ -17,8 +19,11 @@ results/: Contains the results and visualizations generated during the analysis.
 The following clustering algorithms were implemented and evaluated in this project:
 
 1.K-means Clustering: A partition-based clustering method that partitions data points into K clusters.
+
 2.Agglomerative Clustering: A hierarchical clustering method that starts with individual data points and iteratively merges clusters.
+
 3.Hierarchical Clustering: A clustering method that builds a tree of clusters by recursively merging or splitting clusters.
+
 4.DBSCAN (Density-Based Spatial Clustering of Applications with Noise): A density-based clustering method that groups together points that are closely packed.
 
 
