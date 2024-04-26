@@ -8,12 +8,12 @@ The dataset used in this project is the Mall Customers dataset available on Kagg
 #### Project Structure
 The project is structured as follows:
 
-**data/:** Contains the dataset files.
-**CODE/:** Contains Jupyter Notebooks for data exploration, preprocessing, and model evaluation.
-**results/:** Contains the results and visualizations generated during the analysis.
+data/: Contains the dataset files.
+CODE/: Contains Jupyter Notebooks for data exploration, preprocessing, and model evaluation.
+results/: Contains the results and visualizations generated during the analysis.
 
 
-#### Clustering Algorithms
+## Clustering Algorithms
 The following clustering algorithms were implemented and evaluated in this project:
 
 **1.K-means Clustering:** A partition-based clustering method that partitions data points into K clusters.
@@ -22,5 +22,5 @@ The following clustering algorithms were implemented and evaluated in this proje
 **4.DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**: A density-based clustering method that groups together points that are closely packed.
 
 
-Results
+## Results
 The results of the clustering analysis, including visualizations and insights gained from the segmentation, can be found in the results/ directory.
