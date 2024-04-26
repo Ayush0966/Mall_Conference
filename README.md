@@ -2,7 +2,7 @@
 
 This repository contains the code and documentation for a thesis project on customer segmentation using clustering techniques. The project utilizes the Mall Customers dataset from Kaggle and implements various clustering algorithms including K-means, Agglomerative, Hierarchical, and DBSCAN.
 
-#### Dataset
+## Dataset
 The dataset used in this project is the Mall Customers dataset available on Kaggle. This dataset contains information about customers including their gender, age, annual income, and spending score.
 
 #### Project Structure
