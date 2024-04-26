@@ -16,10 +16,10 @@ results/: Contains the results and visualizations generated during the analysis.
 ## Clustering Algorithms
 The following clustering algorithms were implemented and evaluated in this project:
 
-**1.K-means Clustering:** A partition-based clustering method that partitions data points into K clusters.
-**2.Agglomerative Clustering:** A hierarchical clustering method that starts with individual data points and iteratively merges clusters.
-**3.Hierarchical Clustering:** A clustering method that builds a tree of clusters by recursively merging or splitting clusters.
-**4.DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**: A density-based clustering method that groups together points that are closely packed.
+1.K-means Clustering:** A partition-based clustering method that partitions data points into K clusters.
+2.Agglomerative Clustering:** A hierarchical clustering method that starts with individual data points and iteratively merges clusters.
+3.Hierarchical Clustering:** A clustering method that builds a tree of clusters by recursively merging or splitting clusters.
+4.DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**: A density-based clustering method that groups together points that are closely packed.
 
 
 ## Results
